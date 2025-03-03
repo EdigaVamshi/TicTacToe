@@ -31,13 +31,13 @@ A spooky-themed **Tic-Tac-Toe** game built with **React Native** using **Ghosts*
 ## 📦 Installation & Setup  
 
 1. Clone the repository:
-   `git clone https://github.com/yourusername/halloween-tic-tac-toe.git`
-   `cd halloween-tic-tac-toe`
-2. Install dependencies:
-   `npm install`
-3. Run the App:
-   `npx react-native run-android` **For Android**
-   `npx react-native run-ios` **For iOS**
+- `git clone https://github.com/yourusername/halloween-tic-tac-toe.git`
+- `cd halloween-tic-tac-toe`
+3. Install dependencies:
+- `npm install`
+4. Run the App:
+- `npx react-native run-android` **For Android**
+- `npx react-native run-ios` **For iOS**
 
 ## Mobile Installation
 
